@@ -4,7 +4,7 @@ public class Bank {
 
 // instance members
 
-	private ArrayList accounts;
+	private ArrayList<Object> accounts;
 
 //constructor
 
